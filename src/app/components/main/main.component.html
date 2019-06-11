@@ -1,0 +1,72 @@
+  <!-- Navigation -->
+  <header>
+      <carousel>
+          <slide *ngFor="let i of mainObject.carousel.list">
+            <img [src]="i.image" alt="first slide" style="display: block; width: 100%;">
+            <div class="carousel-caption d-none d-md-block">
+              <h3>{{i.title}}</h3>
+              <p>{{i.text}}</p>
+            </div>
+          </slide>
+        </carousel>
+  </header>
+
+  <!-- Page Content -->
+  <div class="container">
+
+    <h3 class="my-4">{{mainObject.medicalPartners.title}}</h3>
+    <hr>
+
+    <!-- Portfolio Section -->
+    <!-- <h2>Portfolio Heading</h2> -->
+
+    <div class="row">
+      <div class="col-lg-4 col-sm-6 portfolio-item" *ngFor="let p of mainObject.medicalPartners.list">
+        <div class="card h-100">
+          <a [href]="p.link" target="_blank"><img class="card-img-top" [src]="p.image" alt=""></a>
+          <div class="card-body">
+            <!-- <hr/> -->
+            <h5 class="card-title">
+              <a [href]="p.link" target="_blank">{{p.name}}</a>
+            </h5>
+            <p class="card-text">{{p.text}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h3 class="my-4">{{mainObject.travelPartners.title}}</h3>
+    <hr>
+
+    <!-- Portfolio Section -->
+    <!-- <h2>Portfolio Heading</h2> -->
+
+    <div class="row">
+      <div class="col-lg-4 col-sm-6 portfolio-item" *ngFor="let p of mainObject.travelPartners.list">
+        <div class="card h-100">
+          <a [href]="p.link" target="_blank"><img class="card-img-top" [src]="p.image" alt=""></a>
+          <div class="card-body">
+            <!-- <hr/> -->
+            <h5 class="card-title">
+              <a [href]="p.link" target="_blank">{{p.name}}</a>
+            </h5>
+            <p class="card-text">{{p.text}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /.row -->
+
+    <!-- Call to Action Section -->
+    <div class="row mb-4">
+      <div class="col-md-8">
+        <p>Usted ha descubierto un servicio internacional con descuento profundo. Nos caracterizamos por tener
+            excelentes precios y productos de calidad y un servicio al cliente profesional.</p>
+      </div>
+      <div class="col-md-4">
+        <a class="btn btn-lg btn-success btn-block" href="#">Contactanos por WhatsApp! <i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+      </div>
+    </div>
+
+  </div>
+  <!-- /.container -->

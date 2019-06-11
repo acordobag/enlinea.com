@@ -1,0 +1,104 @@
+{
+    "navbar": {
+        "options": [
+            {
+                "title": "Inicio",
+                "navigateTo": "home"
+            },
+            {
+                "title": "Acerca de nosotros",
+                "navigateTo": "about-us"
+            },
+            {
+                "title": "Contáctenos",
+                "navigateTo": "contact-us"
+            }
+        ]
+    },
+    "main": {
+        "carousel": {
+            "list": [
+                {
+                    "title": "Viaja tranquilo",
+                    "image": "assets/images/s2.jpg",
+                    "text":"Viaja tranquilo"
+                },
+                {
+                    "title": "La familia",
+                    "image": "assets/images/s1.jpeg",
+                    "text":"La familia es lo mas importante"
+                }
+            ]
+        },
+        "medicalPartners": {
+            "title": "Nuestros socios en su salud médica y de vida",
+            "list": [
+                {
+                    "name": "Clements Worldwide",
+                    "text": "Esto es una prueba de contenido",
+                    "image": "assets/images/clements.jpg",
+                    "link": "https://info.clements.com/isa-jg"
+                },
+                {
+                    "name": "Cigna Global",
+                    "text": "Esto es una prueba de contenido",
+                    "image": "assets/images/cigna.jpg",
+                    "link": "https://www.cignaseguros.com/"
+                },
+                {
+                    "name": "Patriot Series",
+                    "text": "Esto es una prueba de contenido",
+                    "image": "assets/images/enlinea.jpg",
+                    "link": "https://producer.imglobal.com/international-insurance-plans.aspx?imgac=531378&app_method=2&svi=1"
+                },
+                {
+                    "name": "Azimuth Risk Solutions",
+                    "text": "Esto es una prueba de contenido",
+                    "image": "assets/images/asr.jpg",
+                    "link": "https://www.gastomedicos.com/"
+                }
+            ]
+        },
+        "travelPartners": {
+            "title": "Nuestros socios para su protección de viaje",
+            "list": [
+                {
+                    "name": "Asegura Tu Viaje",
+                    "text": "Esto es una prueba de contenido",
+                    "image": "assets/images/astv.jpg",
+                    "link": "aaa"
+                },
+                {
+                    "name": "Seven Corners",
+                    "text": "Esto es una prueba de contenido",
+                    "image": "assets/images/seven.jpg",
+                    "link": "aaa"
+                },
+                {
+                    "name": "World Nomads",
+                    "text": "Esto es una prueba de contenido",
+                    "image": "assets/images/nomads.jpg",
+                    "link": "aaa"
+                },
+                {
+                    "name": "Atlas Travel",
+                    "text": "Esto es una prueba de contenido",
+                    "image": "assets/images/atlas.jpg",
+                    "link": "https://www.seguroatlastravel.com/"
+                },
+                {
+                    "name": "BMI",
+                    "text": "Esto es una prueba de contenido",
+                    "image": "assets/images/bmi.jpg",
+                    "link": "aaa"
+                },
+                {
+                    "name": "BUPA",
+                    "text": "Esto es una prueba de contenido",
+                    "image": "assets/images/bupa.jpg",
+                    "link": "aaa"
+                }
+            ]
+        }
+    }
+}

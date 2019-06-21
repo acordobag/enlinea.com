@@ -24,12 +24,12 @@
       <div class="col-lg-4 col-sm-6 portfolio-item" *ngFor="let p of mainObject.medicalPartners.list">
         <div class="card h-100">
           <a [href]="p.link" target="_blank"><img class="card-img-top" [src]="p.image" alt=""></a>
-          <div class="card-body">
+          <div class="card-body" *ngFor="let op of p.options">
             <!-- <hr/> -->
             <h5 class="card-title">
-              <a [href]="p.link" target="_blank">{{p.name}}</a>
+              <a [href]="op.link" target="_blank">{{op.name}}</a>
             </h5>
-            <p class="card-text">{{p.text}}</p>
+            <p class="card-text">{{op.text}}</p>
           </div>
         </div>
       </div>

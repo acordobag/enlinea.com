@@ -24,12 +24,19 @@
       <div class="col-lg-4 col-sm-6 portfolio-item" *ngFor="let p of mainObject.medicalPartners.list">
         <div class="card h-100">
           <a [href]="p.link" target="_blank"><img class="card-img-top" [src]="p.image" alt=""></a>
-          <div class="card-body" *ngFor="let op of p.options">
-            <!-- <hr/> -->
+          <!-- <div class="card-body" *ngFor="let op of p.options">
             <h5 class="card-title">
               <a [href]="op.link" target="_blank">{{op.name}}</a>
             </h5>
             <p class="card-text">{{op.text}}</p>
+          </div> -->
+          <div class="btn-group">
+            <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Oprima para ver planes
+            </button>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" [href]="op.link" target="_blank" *ngFor="let op of p.options">{{op.name}}</a>
+            </div>
           </div>
         </div>
       </div>

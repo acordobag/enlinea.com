@@ -15,4 +15,8 @@ export class LangService {
   getMainObject(): any{
     return CONFIG.main;
   }
+
+  getMainAboutUs(): any{
+    return CONFIG.aboutUs;
+  }
 }

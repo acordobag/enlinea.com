@@ -138,5 +138,30 @@
                 }
             ]
         }
+    },
+    "aboutUs": {
+        "title": "Acerca de nosotros",
+        "sections": [
+            {
+                "title": "Misión",
+                "text": "Proporcionar a nuestros clientes asesoramiento profesional para analizar y seleccionar la mejor opción para gestionar sus riesgos. Asesores de Planes de Salud / Gastos de Vida. Individual y colectivo una solución de protección impenetrable.",
+                "size": 6
+            },
+            {
+                "title": "Visión",
+                "text": "Ser una empresa innovadora preferida por nuestros clientes y familias, ofrecer productos y servicios orientados al cliente y brindar una experiencia superior.",
+                "size": 6
+            },
+            {
+                "title": "Valores",
+                "text": "Nuestra misión es promover un cambio positivo a través de los Valores y Principios. Para más información de valores visite nuestros valores http://enlinea.com",
+                "size": 6
+            },
+            {
+                "title": "Historia",
+                "text": "Enlinea comenz\u00F3 como una compa\u00F1\u00EDa telef\u00F3nica internacional, brindando el estado de las comunicaciones en 1995. Enlinea creci\u00F3 de cero, durante 20 a\u00F1os creci\u00F3 para convertirse en una compa\u00F1\u00EDa con m\u00E1s de 22,000 clientes y una fuerza laboral de 12 personas que brindaron aproximadamente 24 horas de servicio a todos nuestros clientes.\r\n\r\nEl crecimiento fue nuestra creencia de que el cliente no solo deber\u00EDa obtener un excelente servicio profesional, sino que tambi\u00E9n nos gustar\u00EDa hacer un esfuerzo adicional para deleitar a todos y cada uno de los clientes.\r\n\r\nA nuestros clientes les encant\u00F3 nuestro excelente servicio al cliente, y nuestro crecimiento provino principalmente de recomendaciones de boca en boca.\r\n\r\nTuvimos un buen centro durante 20 a\u00F1os, pero con Skype y otros servicios de comunicaciones gratuitos (o casi gratuitos) se hicieron omnipresentes, por lo tanto, decidimos reinventarnos.\r\n\r\nNuestro Presidente, el Sr. John Gilbert tiene una amplia experiencia en el negocio de seguros de vida y salud. En la actualidad, Enlinea ha sido identificada y asociada con varias compa\u00F1\u00EDas que ofrecen productos de salud y vida \u00FAnicos para todos nuestros clientes en Centro y Sudam\u00E9rica y, de hecho, en todo el mundo.\r\n\r\nNuestros productos son \u00FAnicos porque se pueden comprar en l\u00EDnea por completo. Podemos entregarle el producto o servicio muy r\u00E1pidamente, e incluso a veces inmediatamente en el lugar.\r\n\r\nEstamos muy contentos de que estos productos sean solo para usted, junto con nuestra reputaci\u00F3n de servicio al cliente profesional y r\u00E1pida respuesta.\r\n\r\nNuestro objetivo, como siempre lo ha sido, es asegurarnos de que reciba un excelente servicio profesional, pero tambi\u00E9n de que sea un cliente encantado.\r\n\r\nLe agradecemos a usted, nuestros antiguos clientes en l\u00EDnea y nuestros nuevos clientes, lo que nos permite ayudarlo a brindarle los productos y servicios que son sus necesidades m\u00E1s importantes: asegurar el futuro financiero de su familia; para proteger tu salud; y tiene opciones para ver algunos de los mejores hospitales y m\u00E9dicos del mundo.\r\n\r\nGracias por tomarse el tiempo de leer esto y lo invitamos a unirse a nosotros para ser parte de su futuro.\r\n\r\nMuy atentamente,\r\n\r\nJohn Gilbert y el equipo de Enlinea.",
+                "size": 12
+            }
+        ]
     }
 }

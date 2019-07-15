@@ -40,7 +40,7 @@
                     "link": "https://info.clements.com/isa-jg",
                     "options": [
                         {
-                            "name": "Termlifeinsurace.com",
+                            "name": "Termlifeinternacional.com",
                             "text": "Proteje a tu familia",
                             "image": "assets/images/astv.jpg",
                             "link": "https://info.clements.com/isa-jg"
@@ -60,10 +60,10 @@
                     "link": "https://www.cignaseguros.com/",
                     "options": [
                         {
-                            "name": "Asegura Tu Viaje",
+                            "name": "SegurosCigna.com",
                             "text": "Esto es una prueba de contenido",
                             "image": "assets/images/astv.jpg",
-                            "link": "https://www.cignaseguros.com/"
+                            "link": "https://www.seguroscigna.com/"
                         }
                     ]
                 },
@@ -74,7 +74,7 @@
                     "link": "https://producer.imglobal.com/international-insurance-plans.aspx?imgac=531378&app_method=2&svi=1",
                     "options": [
                         {
-                            "name": "Asegura Tu Viaje",
+                            "name": "ImgGlobal.online",
                             "text": "Esto es una prueba de contenido",
                             "image": "assets/images/astv.jpg",
                             "link": "https://producer.imglobal.com/international-insurance-plans.aspx?imgac=531378&app_method=2&svi=1"
@@ -88,10 +88,24 @@
                     "link": "https://www.gastomedicos.com/",
                     "options": [
                         {
-                            "name": "Asegura Tu Viaje",
+                            "name": "GastoMedico.com",
                             "text": "Esto es una prueba de contenido",
                             "image": "assets/images/astv.jpg",
                             "link": "https://www.gastomedicos.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Best Maridian Insurance",
+                    "text": "Esto es una prueba de contenido",
+                    "image": "assets/images/bmi.jpg",
+                    "link": "https://www.gastomedicos.com/",
+                    "options": [
+                        {
+                            "name": "SeguroCr.com",
+                            "text": "Esto es una prueba de contenido",
+                            "image": "assets/images/astv.jpg",
+                            "link": "https://www.segurocr.com"
                         }
                     ]
                 }
@@ -101,40 +115,40 @@
             "title": "Nuestros socios para su protección de viaje",
             "list": [
                 {
-                    "name": "Asegura Tu Viaje",
+                    "name": "AseguraTuvViaje.online",
                     "text": "Esto es una prueba de contenido",
                     "image": "assets/images/astv.jpg",
-                    "link": "aaa"
+                    "link": "https://sistema.aseguratuviaje.com/agentlink/Servicios.aspx?ref=%2fYkc7odRbdRvUD1dqL4pyV1gQKGtX2ahUliUblwEN2w%3d"
                 },
                 {
-                    "name": "Seven Corners",
+                    "name": "TripInsur.com",
                     "text": "Esto es una prueba de contenido",
                     "image": "assets/images/seven.jpg",
-                    "link": "aaa"
+                    "link": "https://www.sevencorners.com/es/?a=ADABA1B8-DA4A-40C9-B19B-E2AF07845935&z=HGP283H#start"
                 },
                 {
-                    "name": "World Nomads",
+                    "name": "WorldNomads.online",
                     "text": "Esto es una prueba de contenido",
                     "image": "assets/images/nomads.jpg",
-                    "link": "aaa"
+                    "link": "https://worldnomadstravelinsurance.com"
                 },
                 {
-                    "name": "Atlas Travel",
+                    "name": "AtlasTravelInsurance.com",
                     "text": "Esto es una prueba de contenido",
                     "image": "assets/images/atlas.jpg",
                     "link": "https://www.seguroatlastravel.com/"
                 },
                 {
-                    "name": "BMI",
+                    "name": "BMITravel.com",
                     "text": "Esto es una prueba de contenido",
                     "image": "assets/images/bmi.jpg",
-                    "link": "aaa"
+                    "link": "http://bmitravel.com"
                 },
                 {
-                    "name": "BUPA",
+                    "name": "Estudiante internacional",
                     "text": "Esto es una prueba de contenido",
                     "image": "assets/images/bupa.jpg",
-                    "link": "aaa"
+                    "link": "http://seguroparaestudianteinternacional.com"
                 }
             ]
         }

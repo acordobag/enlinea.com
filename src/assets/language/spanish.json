@@ -137,6 +137,13 @@
                     "link": "aaa"
                 }
             ]
+        },
+        "dialogs": {
+            "greetings": {
+                "day": "Buenos días!",
+                "night": "Buenas noches!"
+            },
+            "welcomeText":"Bienvenido y Bendiciones de Enlinea!"
         }
     },
     "aboutUs": {
